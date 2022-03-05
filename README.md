@@ -1,4 +1,4 @@
-Introduction to Audio Analysis in Python
+# Introduction to Audio Analysis in Python
 
     - Import audio file
     - Get audio file characteristic (sample rate, bit depth, number of channels)
