@@ -1,0 +1,11 @@
+
+For those using an Anaconda distribution, SoundFile is not available for a conda install.
+
+In the conda terminal do this:
+
+1 - pip uninstall SoundFile
+2 - pip install SoundFile
+
+The solution should fix the error during import.
+
+This solution worked on Windows 10 with Anaconda, and python 3.8.11
